@@ -1,3 +1,7 @@
+# Unit tests are maintained locally, including their fixtures and runners.
+Tests/
+tests/
+
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
